@@ -1,9 +1,23 @@
-.nav {
-    background-color: gray;
-    height: 100%;
+
+body {
+    background-image: linear-gradient(to right, #71797E, #B2BEB5);
 }
 
-.nav ul {
-    float: right;
-    background-color: bisque;
+header ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
 }
+
+header ul li {
+    padding: 3%;
+    font-weight: bold;
+    font-size:xx-large;
+}
+
+header ul li a {
+    text-decoration: none;
+    color:aliceblue;
+;}
+
