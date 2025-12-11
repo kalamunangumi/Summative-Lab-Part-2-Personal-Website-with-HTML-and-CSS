@@ -111,6 +111,15 @@ input, textarea, button {
 
 }
 
+footer {
+    padding-top: 20px;
+}
+
+footer a {
+    text-decoration: none;
+    color: darkgreen;
+}
+
 
 
 
